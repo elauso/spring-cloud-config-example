@@ -1,0 +1,2 @@
+# Chamar get que busca propriedade toggle.enabled
+curl http://localhost:8080/toggle/enabled
